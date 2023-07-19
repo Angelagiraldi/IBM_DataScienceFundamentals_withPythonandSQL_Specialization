@@ -53,7 +53,7 @@ This project-based course will help you demonstrate your proficiency in Python f
 ### Course 4: Statistics for Data Science with Python
 
 -   ##### Description:
-This course will teach you how to analyze data with Python, a powerful language for data science. You will learn how to collect and import data, clean and wrangle data, perform exploratory data analysis (EDA), and create meaningful data visualizations. You will also learn how to predict future trends from data by developing linear, multiple, polynomial regression models & pipelines and learn how to evaluate them.
+This course will introduce you to the basic principles of statistical methods and procedures used for data analysis. You will learn how to gather data, summarize data using descriptive statistics, display and visualize data, examine relationships between variables, and conduct hypothesis tests. You will also learn how to use Python and Jupyter Notebooks to perform statistical analysis.
 
 -   ##### Folder: `4_StatisticsDataSciencePython/`
 
